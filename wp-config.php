@@ -1,5 +1,5 @@
 <?php
-//author vipul
+//author vipul @me
 define( 'WP_CACHE', true ); 
 /**
  * The base configuration for WordPress
